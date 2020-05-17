@@ -5,19 +5,45 @@ Vitreous is a self-hostable URL shortener written in Crystal.
 
 For now, It is a toy project to improve author's skills with the language and its various libraries. **It is very early stage and is not supposed to work (yet). Please don't use it in production.** :warning:
 
-## Usage
+## Roadmap
 
-### Installation
+* :arrow_right: Setup base server
+  * :x: Run HTTP service
+  * :x: Authenticate user
+* :x: Managing URLs (store in memory for v1)
+  * :x: Create short URL
+  * :x: Read short URL
+  * :x: Delete short URL
+  * :x: List short URLs
+  * :x: Update short URLs
+* :x: Support redirection
+  * :x: handle created short url and redirect to original url
+* :x: Support persistent storage system
+  * use postgresql backend
+  * use redis backend
+* :x: Support global configuration
+  * :x: URL scheme setup (letters, numbers, etc.)
+* :x: Add support for tracking
+  * :x: track links click
+  * :x: links per day (all time, last 30 days, last 14 days, last 7 days, last 24h, last hour)
+  * :x: links per weekday
+  * :x: links per hour
+* :x: Add support for custom urls
+  * :x: request a custom url (ok / not-ok)
+  * :x: request a custom name (text is sanitized and the nearest available url is given)
+* :x: Add frontend
+  * :x: Support user authentication + JWT
+  * :x: Support short URLs management actions (as user)
+  * :x: Support short URLs customization actions (as user)
+  * :x: Support system configuration (as admin)
+  * :x: Copy short url to clipboard
+  * :x: Generate QR code for URL
 
-Please read [doc/installing.md](doc/installing.md)
+## Documentation
 
-### Configuration
-
-Please read [doc/configuration.md](doc/configuration.md)
-
-## Contributing
-
-Please read [doc/contributing.md](doc/contributing.md)
+* [Installation](doc/installing.md)
+* [Configuration](doc/configuration.md)
+* [Contributing](doc/contributing.md)
 
 ## Authors & contributors
 

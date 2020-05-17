@@ -4,58 +4,6 @@
 An simple url shortener in Crystal
 
 
-## Base
-
-* Run HTTP service
-* Authenticate user
-
-
-## Managing URLs
-
-v1: store in a yaml or json file
-
-* Create URL
-* Delete URL
-* List URLs
-
-
-## Redirection
-
-* handle created short url and redirect to original url
-
-
-## Storage
-
-* Use postgresql
-
-
-## Configure
-
-* Setup URL scheme (letters, numbers, etc.)
-* Setup error detection in urls ?
-
-
-## Tracking
-
-* track links click
-* links per day (all time, last 30 days, last 14 days, last 7 days, last 24h, last hour)
-* links per weekday
-* links per hour
-
-## Custom URL
-
-* Request a custom url (if possible, otherwise another is given)
-
-## Add frontend
-
-
-## Customize
-
-## Copy to clipboard
-
-## QR code for short URL
-
-
 ## Références
 
 * https://buffer.com/library/url-shorteners
