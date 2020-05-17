@@ -1,14 +1,33 @@
-# vitreous
+# Vitreous
 
-This is a project written using [Lucky](https://luckyframework.org). Enjoy!
+Vitreous is an URL shortener written in Crystal. 
 
-### Setting up the project
+For now, It is a toy project to improve author's skills with the language and various libraries. **It is not supposed to work (yet). Please don't use it in production.**
 
-1. [Install required dependencies](https://luckyframework.org/guides/getting-started/installing#install-required-dependencies)
-1. Update database settings in `config/database.cr`
-1. Run `script/setup`
-1. Run `lucky dev` to start the app
+## Installation
 
-### Learning Lucky
+Please read [doc/installing.md]()
 
-Lucky uses the [Crystal](https://crystal-lang.org) programming language. You can learn about Lucky from the [Lucky Guides](https://luckyframework.org/guides/getting-started/why-lucky).
+## Configuration
+
+Please read [doc/configuration.md]()
+
+## Contributing
+
+Please read [doc/contributing.md]()
+
+## Authors & contributors
+
+* [Glenn Y. Rolland](https://github.com/glenux) - creator and maintainer
+
+## Sponsors
+
+[Vitreous](https://github.com/glenux/vitreous) is an independent project whose development and maintenance is made possible thanks to the support of its patrons.
+
+If you wish to join them and support the work of its author, just participate with this link:
+
+**>>> [Become a patron or sponsor on Patreon](https://www.patreon.com/glenux) <<<**
+
+## License
+
+Vitreous is Copyright © 2019-2020 Glenn ROLLAND. It is free software, and may be redistributed under the terms specified in the LICENSE.txt file.
