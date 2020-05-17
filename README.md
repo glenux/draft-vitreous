@@ -9,7 +9,7 @@ For now, It is a toy project to improve author's skills with the language and it
 
 * :arrow_right: Setup base server
   * :arrow_right: Run HTTP service
-  *:arrow_right: Authenticate user
+  * :arrow_right: Authenticate user
 * :arrow_right: Support persistent storage system
   * :arrow_right: use postgresql backend
   * :x: use redis backend
