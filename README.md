@@ -1,6 +1,9 @@
 
 # <img src="doc/logo.svg" width="50%" style="display: block; margin: 0 auto;" alt="Vitreous" />
 
+[![GitHub license](https://img.shields.io/github/license/glenux/vitreous.svg)](https://github.com/glenux/vitreous/blob/master/LICENSE.txt)
+[![Donate on patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://patreon.com/glenux)
+
 Vitreous is a self-hostable URL shortener written in Crystal. 
 
 For now, It is a toy project to improve author's skills with the language and its various libraries. **It is very early stage and is not supposed to work (yet). Please don't use it in production.** :warning:
