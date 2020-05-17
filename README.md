@@ -8,9 +8,12 @@ For now, It is a toy project to improve author's skills with the language and it
 ## Roadmap
 
 * :arrow_right: Setup base server
-  * :x: Run HTTP service
-  * :x: Authenticate user
-* :x: Managing URLs (store in memory for v1)
+  * :arrow_right: Run HTTP service
+  *:arrow_right: Authenticate user
+* :arrow_right: Support persistent storage system
+  * :arrow_right: use postgresql backend
+  * :x: use redis backend
+* :x: Managing URLs
   * :x: Create short URL
   * :x: Read short URL
   * :x: Delete short URL
@@ -18,9 +21,6 @@ For now, It is a toy project to improve author's skills with the language and it
   * :x: Update short URLs
 * :x: Support redirection
   * :x: handle created short url and redirect to original url
-* :x: Support persistent storage system
-  * use postgresql backend
-  * use redis backend
 * :x: Support global configuration
   * :x: URL scheme setup (letters, numbers, etc.)
 * :x: Add support for tracking
