@@ -33,4 +33,4 @@ If you wish to join them and support the work of its author, just participate wi
 
 ## License
 
-Vitreous is Copyright © 2019-2020 Glenn ROLLAND. It is free software, and may be redistributed under the terms specified in the LICENSE.txt file.
+Vitreous is Copyright © 2020 Glenn ROLLAND. It is free software, and may be redistributed under the terms specified in the LICENSE.txt file.
