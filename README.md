@@ -1,7 +1,5 @@
 
-<img src="doc/logo.svg" width="75%" style="display: block; margin: 0 auto;" alt="Vitreous" />
-
-----
+# <img src="doc/logo.svg" width="50%" style="display: block; margin: 0 auto;" alt="Vitreous" />
 
 Vitreous is an URL shortener written in Crystal. 
 
