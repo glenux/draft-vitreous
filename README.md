@@ -1,5 +1,5 @@
 
-# <img src="doc/logo.svg" style="width: 75%; display: block; margin: 0 auto;" alt="Vitreous" />
+<img src="doc/logo.svg" style="max-width: 75%; display: block; margin: 0 auto;" alt="Vitreous" />
 
 ----
 
