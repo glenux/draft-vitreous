@@ -6,15 +6,15 @@ For now, It is a toy project to improve author's skills with the language and va
 
 ## Installation
 
-Please read [doc/installing.md]()
+Please read [doc/installing.md](doc/installing.md)
 
 ## Configuration
 
-Please read [doc/configuration.md]()
+Please read [doc/configuration.md](doc/installing.md)
 
 ## Contributing
 
-Please read [doc/contributing.md]()
+Please read [doc/contributing.md](doc/installing.md)
 
 ## Authors & contributors
 
