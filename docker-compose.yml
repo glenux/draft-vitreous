@@ -1,0 +1,31 @@
+---
+version: "3.4"
+
+services:
+  app:
+    build:
+      dockerfile: docker/Dockerfile
+      context: .
+    environment:
+      VITREOUS_DATA_DIR: /data
+    ports:
+      - 3000:3000
+    volumes:
+      - app_data:/data
+
+  db:
+    image: postgres:11
+    restart: "no"
+    environment:
+      POSTGRES_USER: vitreous_user
+      POSTGRES_PASSWORD: vitreous_pass
+      POSTGRES_DB: vitreous_db
+    ports:
+      - 5432:5432
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+
+volumes:
+  db_data: {}
+  app_data: {}
