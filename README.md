@@ -1,3 +1,5 @@
+:rotating_light: **The project has moved to a self-hosted git instance!**<br/>
+:rotating_light: **Please use the new URL for an up-to-date version:** https://code.apps.glenux.net/glenux/draft-vitreous 
 
 # <img src="doc/logo.svg" style="width: 50%; display: block; margin: 0 auto;" alt="Vitreous" />
 
