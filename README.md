@@ -1,5 +1,5 @@
 
-# <img src="doc/logo.svg" style="width: 60%; display: block; margin: 0 auto;" alt="Vitreous" />
+# <img src="doc/logo.svg" style="width: 50%; display: block; margin: 0 auto;" alt="Vitreous" />
 
 [![GitHub license](https://img.shields.io/github/license/glenux/vitreous.svg)](https://github.com/glenux/vitreous/blob/master/LICENSE.txt)
 [![Donate on patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://patreon.com/glenux)
